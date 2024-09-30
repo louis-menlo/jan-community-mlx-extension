@@ -1,0 +1,9 @@
+name: mlx-extension
+channels:
+  - https://conda.modular.com/max/
+  - conda-forge
+  - "https://repo.prefix.dev/mojo-community"
+dependencies:
+  - python>=3.9,<3.13
+  - max
+  - pip>=24.0,<25

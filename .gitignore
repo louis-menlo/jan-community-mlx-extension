@@ -1,0 +1,10 @@
+.magic
+__pycache__
+dist
+node_modules
+.DS_Store
+magic.lock
+deps/**
+llama-vision
+yarn.lock
+tsconfig.tsbuildinfo
